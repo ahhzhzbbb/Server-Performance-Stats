@@ -2,6 +2,9 @@
 
 A lightweight Bash script for monitoring Linux server performance metrics in real-time.
 
+## Project URL
+https://roadmap.sh/projects/server-stats
+
 ## Description
 
 This script provides a simple and efficient way to monitor key system performance indicators including CPU usage, memory consumption, disk usage, and process information. It's designed for system administrators and DevOps engineers who need quick insights into server health.
