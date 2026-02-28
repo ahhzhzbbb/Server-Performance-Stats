@@ -84,5 +84,10 @@ while getopts "cmdPMha" opt; do
     esac
 done
 
+if [ $# -eq 0 ]; then
+   echo "Usage: $0 [-h] for help"
+   exit 1
+fi
+
 echo ""
 echo "==========================================================================================="
